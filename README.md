@@ -1,1 +1,38 @@
-# prueba
+<!doctype html>
+<html>
+<head>
+    <title>examen diagnostico</title>
+</head>
+<body>
+    <h1> bienvenidos a mi pagina</h1>
+    <h2>Gonzalez Lopez Laura Yoseline</h2>
+    <p>HTML  es un lenguaje de programacion que se usa para estructurar el contenido de una pagina web.</p>
+    <P><strong>holis</strong></P>
+
+    <h3> usos de html</h3>
+<ol>
+<li>crear paginas web</li>
+<li>organizar texto y documentos</li>
+<li>vincular documentos con enlaces</li>
+</ol>
+
+<h3>etiquetas de html</h3>
+<ol>
+<li>h1 para encabezados</li>
+<li>p para parrafos</li>
+<li>strong para texto en negrita</li>
+</ol>
+
+<h3>enlace</h3>
+<p><a href="https://www.google.com">ir a google</a></p>
+
+<h3>formulario</h3>
+<form>
+      <p>nombre:<input type="text" name="nombre"></p>
+     <p>correo:<input type="email" name="correo"></p>
+     <p>comentarios:<br>
+        <textarea name="comentarios"></textarea></p>
+          <p><button type="submit">enviar</button></p>
+</form>  
+</body>
+</html>
